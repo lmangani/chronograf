@@ -91,8 +91,8 @@ const OneClickML = ({
     }
     
     function oneClickModel() {
-        console.log('timeRange', timeRange)
-        console.log('settings', settings)
+        // console.log('timeRange', timeRange)
+        // console.log('settings', settings)
         createAndTrainModel()
     }
 
